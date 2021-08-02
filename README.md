@@ -48,6 +48,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.icons8.com/officel/45/000000/java-eclipse.png"/>
 </code>
 
+ <br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mhpranta12)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://github-readme-stats.vercel.app/api?username=mhpranta12&show_icons=true&count_private=true&theme=blue-green)](https://github.com/mhpranta12"><br>
