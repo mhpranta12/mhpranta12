@@ -50,7 +50,8 @@ You can click the Preview link to take a look at your changes.
 
  <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mhpranta12)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy]https://github-profile-trophy.vercel.app/?username=ryo-ma&row=1&column=1
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=mhpranta12&show_icons=true&count_private=true&theme=blue-green)](https://github.com/mhpranta12"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhpranta12&theme=blue-blue&layout=compact">
