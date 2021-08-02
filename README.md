@@ -49,4 +49,5 @@ You can click the Preview link to take a look at your changes.
 </code>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=mhpranta12&show_icons=true&count_private=true&theme=blue-green)](https://github.com/mhpranta12">
+<img src="https://github-readme-stats.vercel.app/api?username=mhpranta12&show_icons=true&count_private=true&theme=blue-green)](https://github.com/mhpranta12"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhpranta12&theme=blue-green&layout=compact">
