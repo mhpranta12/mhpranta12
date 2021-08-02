@@ -9,7 +9,7 @@ mhpranta12/mhpranta12 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <h1> Do </h1>
-Languages :
+<h3> Languages : </h3> <br>
 <code>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
@@ -21,4 +21,4 @@ Languages :
   <img src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
   <img src="https://img.icons8.com/dusk/64/26e07f/javascript-logo.png"/>
 </code>
-
+[![MH-Pranta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhpranta12&show_icons=true&count_private=true&theme=blue-green)](https://github.com/mhpranta12)
