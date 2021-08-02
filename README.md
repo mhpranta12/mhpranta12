@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <h3> Socials : </h3> <br>
 
-<ahref="https://www.linkedin.com/in/mehedi-hasan-pranta-a53176162/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/> </a>
-<ahref="https://www.facebook.com/mehedihasan.pranta.7/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/> </a>
+<a href="https://www.linkedin.com/in/mehedi-hasan-pranta-a53176162/"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/> </a>
+<a href="https://www.facebook.com/mehedihasan.pranta.7/"> <img src="https://img.icons8.com/fluency/48/000000/facebook.png"/> </a>
 
 
 <h3> Languages : </h3> <br>
