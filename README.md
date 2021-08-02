@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 
  <br>
 
- <img src= "https://github-profile-trophy.vercel.app/?username=mhpranta12&row=1&column=6">
+ <img src= "https://github-profile-trophy.vercel.app/?username=mhpranta12&row=1&column=9">
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=mhpranta12&show_icons=true&count_private=true&theme=blue-green)](https://github.com/mhpranta12"><br>
