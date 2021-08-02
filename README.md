@@ -20,4 +20,14 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
   <img src="https://img.icons8.com/dusk/64/26e07f/javascript-logo.png"/>
+  
+  <img src="https://img.icons8.com/color/50/000000/react-native.png"/>
+</code>
+
+
+<h3> Tools : </h3> <br>
+
+<code>
+<img src="https://img.icons8.com/color/50/000000/git.png"/>
+<img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/>
 </code>
