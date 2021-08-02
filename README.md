@@ -21,4 +21,3 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
   <img src="https://img.icons8.com/dusk/64/26e07f/javascript-logo.png"/>
 </code>
-<iframe src= "https://github-readme-stats.vercel.app/api?username=mhpranta12&show_icons=true&count_private=true&theme=blue-green)](https://github.com/mhpranta12"> </iframe>
