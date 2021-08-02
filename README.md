@@ -8,6 +8,9 @@
 mhpranta12/mhpranta12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+there+👋!;Welcome+to+my+profile!;I+am+Pranta;A+passionate+AI/ML,+Game;and+Web+developer.&center=true&size=27">
+
 <h3> Socials : </h3> <br>
 
 <a href="https://www.linkedin.com/in/mehedi-hasan-pranta-a53176162/"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/> </a>
