@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mehedi Hasan Pranta
 - 👀 I’m interested in ... Artificial Intelligence , Big Data ,Data Science , Web development
-- 🌱 I’m currently learning ... React.Js,Python,Computer Vision and pattern recognition , Artifial Intelligence  
-- 💞️ I’m looking to collaborate on ...Web/Software development project 
-- 📫 How to reach me ... mhpranta2@gmail.com
+- 🌱 I’m currently working as a Trainee Software Engineer @ Flyte Solutions ...
+- 💞️ I’m looking to proceed on ...Web/Software development project 
+- 📫 How to reach me ... mhpranta2@gmail.com / mehedi.hasan@flytesolutions.com
 
 <!---
 mhpranta12/mhpranta12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
