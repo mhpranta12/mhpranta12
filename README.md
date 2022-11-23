@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mehedi Hasan Pranta
-- 👀 I’m interested in ... Artificial Intelligence , Big Data ,Data Science , Web development
+- 👀 I’m interested in ...  Big Data ,Block Chain , Web Technologies, Cloud Services
 - 🌱 I’m currently learning backend web development
 - 💞️ I’m looking to proceed on ...Web/Software development project 
 - 📫 How to reach me ... mhpranta2@gmail.com
