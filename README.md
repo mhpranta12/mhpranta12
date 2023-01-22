@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h3> Languages : </h3> <br>
-<code>
+
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/ios/48/000000/java-coffee-cup-logo--v2.png"/>
@@ -34,7 +34,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.icons8.com/dusk/64/26e07f/javascript-logo.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
   <img src="https://img.icons8.com/color/50/000000/react-native.png"/>
-</code>
 
 
 <h3> Tools : </h3> <br>
