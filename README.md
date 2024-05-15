@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mehedi Hasan Pranta
-- 👀 I’m interested in ...  Big Data ,Block Chain , Web Technologies, Cloud Services
-- 🌱 I’m currently learning backend web development
-- 💞️ I’m looking to proceed on ...Web/Software development project 
+- 👀 I’m interested in ... Web Technologies, Cloud Services
+- 🌱 I’m currently working as an intern software engineer in dev skills
 - 📫 How to reach me ... mhpranta2@gmail.com
 - My Portfolio Web site : https://mhpranta.netlify.app/
 <!---
@@ -23,17 +22,12 @@ You can click the Preview link to take a look at your changes.
 
 <h3> Languages : </h3> <br>
 <span>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/ios/48/000000/java-coffee-cup-logo--v2.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v2.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
-  <img src="https://img.icons8.com/dusk/64/26e07f/javascript-logo.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
-  <img src="https://img.icons8.com/color/50/000000/react-native.png"/>
 </span>
 
 <h3> Tools : </h3> <br>
@@ -42,7 +36,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.icons8.com/color/50/000000/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/officel/45/000000/java-eclipse.png"/>
 </span>
 
  <br>
