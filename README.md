@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mehedi Hasan Pranta
 - 👀 I’m interested in ... Web Technologies, Cloud Services
-- 🌱 I’m currently working as an intern software engineer in dev skills
+- 🌱 I’m currently working as a junior software engineer in Dizi Nova Ltd.
 - 📫 How to reach me ... mhpranta2@gmail.com
 - My Portfolio Web site : https://mhpranta.netlify.app/
 <!---
