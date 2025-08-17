@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mehedi Hasan Pranta
 - 👀 I’m interested in ... Web Technologies, Cloud Services
-- 🌱 I’m currently working as a junior software engineer in Dizi Nova Ltd.
+- 🌱 I’m currently working as a Software Engineer in <a href="https://bluebayit.com/">Blue Bay IT Ltd. </a> 
 - 📫 How to reach me ... mhpranta2@gmail.com
 - My Portfolio Web site : https://mhpranta.netlify.app/
 <!---
